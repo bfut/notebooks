@@ -17,7 +17,7 @@
 #    misrepresented as being the original software.
 # 3. This notice may not be removed or altered from any source distribution.
 """
-Parse and validate parameter files from https://doi.org/10.1080/00207543.2012.751514
+Unofficial parser for parameter files from https://doi.org/10.1080/00207543.2012.751514
 """
 
 import json
